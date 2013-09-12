@@ -1,0 +1,16 @@
+name = global_otherenabled
+description = modules that should globally be enabled on production
+core = 7.x
+package = Features
+version = 7.x-1.0
+project = global_otherenabled
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+dependencies[] = ctools
+dependencies[] = environment_indicator
+dependencies[] = features
+dependencies[] = libraries
+dependencies[] = piwik
+dependencies[] = strongarm
+dependencies[] = views
+features[features_api][] = api:2
