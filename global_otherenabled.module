@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the global_otherenabled feature.
  */
+
+include_once 'global_otherenabled.features.inc';
