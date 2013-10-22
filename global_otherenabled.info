@@ -15,7 +15,6 @@ dependencies[] = features
 dependencies[] = libraries
 dependencies[] = linkchecker
 dependencies[] = pathauto
-dependencies[] = piwik
 dependencies[] = strongarm
 dependencies[] = token
 dependencies[] = views
