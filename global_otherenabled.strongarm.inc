@@ -23,11 +23,11 @@ function global_otherenabled_strongarm() {
   $strongarm->name = 'admin_menu_components';
   $strongarm->value = array(
     'admin_menu.menu' => TRUE,
-    'admin_menu.users' => TRUE,
-    'admin_menu.account' => TRUE,
     'shortcut.links' => FALSE,
     'admin_menu.icon' => FALSE,
     'admin_menu.search' => FALSE,
+    'admin_menu.users' => FALSE,
+    'admin_menu.account' => FALSE,
   );
   $export['admin_menu_components'] = $strongarm;
 
@@ -37,9 +37,6 @@ function global_otherenabled_strongarm() {
   $strongarm->name = 'admin_menu_devel_modules_skip';
   $strongarm->value = array(
     'admin_devel' => 0,
-    'devel' => 0,
-    'devel_node_access' => 0,
-    'devel_themer' => 0,
     'field_ui' => 0,
     'views_ui' => 0,
   );
