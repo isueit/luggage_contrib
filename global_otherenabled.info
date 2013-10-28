@@ -4,6 +4,7 @@ core = 7.x
 package = Features
 version = 7.x-1.5
 project = global_otherenabled
+github = https://raw.github.com/ISUITC/global_otherenabled/master/global_otherenabled.info
 dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = ctools
