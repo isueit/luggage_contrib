@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/itc/!svn/ver/341/isuitcbase/sites/all/modules/custom/global_otherenabled
+END
+global_otherenabled.strongarm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/itc/!svn/ver/296/isuitcbase/sites/all/modules/custom/global_otherenabled/global_otherenabled.strongarm.inc
+END
+global_otherenabled.module
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/itc/!svn/ver/341/isuitcbase/sites/all/modules/custom/global_otherenabled/global_otherenabled.module
+END
+global_otherenabled.features.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/itc/!svn/ver/231/isuitcbase/sites/all/modules/custom/global_otherenabled/global_otherenabled.features.inc
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/itc/!svn/ver/167/isuitcbase/sites/all/modules/custom/global_otherenabled/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/itc/!svn/ver/167/isuitcbase/sites/all/modules/custom/global_otherenabled/.gitignore
+END
+global_otherenabled.features.user_permission.inc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/itc/!svn/ver/290/isuitcbase/sites/all/modules/custom/global_otherenabled/global_otherenabled.features.user_permission.inc
+END
+global_otherenabled.info
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/itc/!svn/ver/296/isuitcbase/sites/all/modules/custom/global_otherenabled/global_otherenabled.info
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/itc/!svn/ver/167/isuitcbase/sites/all/modules/custom/global_otherenabled/README.md
+END
