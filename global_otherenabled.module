@@ -5,3 +5,11 @@
  */
 
 include_once 'global_otherenabled.features.inc';
+
+/**
+ * Implements hook_update_projects_alter().
+ */
+function global_otherenabled_update_projects_alter(&$projects) {
+  // Hide a site-specific module from the list.
+  unset($projects['global_otherenabled']);
+}
