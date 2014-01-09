@@ -7,7 +7,7 @@
 /**
  * Implements hook_user_default_permissions().
  */
-function global_otherenabled_user_default_permissions() {
+function luggage_contrib_user_default_permissions() {
   $permissions = array();
 
   // Exported permission: 'view delete button'.

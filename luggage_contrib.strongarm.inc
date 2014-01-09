@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * global_otherenabled.strongarm.inc
+ * luggage_contrib.strongarm.inc
  */
 
 /**
  * Implements hook_strongarm().
  */
-function global_otherenabled_strongarm() {
+function luggage_contrib_strongarm() {
   $export = array();
 
   $strongarm = new stdClass();
