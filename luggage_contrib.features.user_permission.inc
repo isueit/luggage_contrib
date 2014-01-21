@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * global_otherenabled.features.user_permission.inc
+ * luggage_contrib.features.user_permission.inc
  */
 
 /**

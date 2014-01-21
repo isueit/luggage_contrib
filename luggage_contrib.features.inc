@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * global_otherenabled.features.inc
+ * luggage_contrib.features.inc
  */
 
 /**
