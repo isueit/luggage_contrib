@@ -26,6 +26,7 @@ dependencies[] = ds
 dependencies[] = ds_extras
 dependencies[] = ds_forms
 dependencies[] = ds_search
+dependencies[] = field_group
 features[ctools][] = strongarm:strongarm:1
 features[features_api][] = api:2
 features[user_permission][] = view delete button
