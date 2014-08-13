@@ -22,7 +22,6 @@ dependencies[] = entity
 dependencies[] = entity_token
 dependencies[] = environment_indicator
 dependencies[] = features
-dependencies[] = features_override
 dependencies[] = field_group
 dependencies[] = jammer
 dependencies[] = libraries
