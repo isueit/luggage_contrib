@@ -38,7 +38,6 @@ function luggage_contrib_strongarm() {
   $strongarm->value = array(
     'admin_devel' => 0,
     'field_ui' => 0,
-    'rules_admin' => 0,
     'views_ui' => 0,
   );
   $export['admin_menu_devel_modules_skip'] = $strongarm;
