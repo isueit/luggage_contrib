@@ -20,6 +20,7 @@ dependencies[] = features
 dependencies[] = field_group
 dependencies[] = jammer
 dependencies[] = libraries
+dependencies[] = link
 dependencies[] = linkchecker
 dependencies[] = panels
 dependencies[] = pathauto
