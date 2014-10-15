@@ -42,4 +42,5 @@ features[variable][] = admin_menu_position_fixed
 features[variable][] = admin_menu_tweak_modules
 features[variable][] = admin_menu_tweak_permissions
 features[variable][] = admin_menu_tweak_tabs
+features[variable][] = pathauto_node_pattern
 github = https://raw.github.com/isubit/luggage_contrib/master/luggage_contrib.info

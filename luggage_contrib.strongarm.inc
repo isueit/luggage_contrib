@@ -77,5 +77,12 @@ function luggage_contrib_strongarm() {
   $strongarm->value = 0;
   $export['admin_menu_tweak_tabs'] = $strongarm;
 
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'pathauto_node_pattern';
+  $strongarm->value = '[node:title]';
+  $export['pathauto_node_pattern'] = $strongarm;
+
   return $export;
 }
