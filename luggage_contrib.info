@@ -23,6 +23,7 @@ dependencies[] = jammer
 dependencies[] = libraries
 dependencies[] = link
 dependencies[] = linkchecker
+dependencies[] = module_filter
 dependencies[] = panels
 dependencies[] = pathauto
 dependencies[] = rules
