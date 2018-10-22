@@ -13,6 +13,7 @@ dependencies[] = date_api
 dependencies[] = date_popup
 dependencies[] = date_views
 dependencies[] = diff
+dependencies[] = eim
 dependencies[] = email
 dependencies[] = entity
 dependencies[] = entity_token
