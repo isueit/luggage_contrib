@@ -18,6 +18,7 @@ dependencies[] = email
 dependencies[] = entity
 dependencies[] = entity_token
 dependencies[] = environment_indicator
+dependencies[] = exif_orientation
 dependencies[] = features
 dependencies[] = field_group
 dependencies[] = jammer
